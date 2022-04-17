@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **All things related to Machine Learning**
 
-- 👯 I’m looking to collaborate on **Bangkit Capstone Project**
+- 👯 I’m looking to collaborate on **Bangkit 2022 Capstone Project**
 
-- 👨‍💻 A lot of my projects are available at here on GitHub [https://github.com/kennethmanuel?tab=repositories](https://github.com/kennethmanuel?tab=repositories)
+- 👨‍💻 A lot of my projects are available at here on [GitHub](https://github.com/kennethmanuel?tab=repositories), sorry beforehand, since a lot of these project are not polished
 
-- 📄 Know about some of my experiences [https://drive.google.com/file/d/13IlDSmnMCAaKoMAvAvXp_ouSZA-sE29J/view?usp=sharing](https://drive.google.com/file/d/13IlDSmnMCAaKoMAvAvXp_ouSZA-sE29J/view?usp=sharing)
+- 📄 Know about some of my [experiences](https://drive.google.com/file/d/13IlDSmnMCAaKoMAvAvXp_ouSZA-sE29J/view?usp=sharing)
 
 - ⚡ Fun fact **I throw exception by day and throw games by night.**
 
