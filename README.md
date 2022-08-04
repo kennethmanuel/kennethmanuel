@@ -3,15 +3,11 @@
 
 - 🔭 I’m currently studying on **University of Surabaya**
 
-- 🌱 I’m currently learning **All things related to Machine Learning**
-
-- 👯 I’m currently looking for internships or part time jobs that help advance my skills as data scientist and a machine learning engineer
+- 🌱 I’m currently learning **All things related to MaVchine Learning**
 
 - 👨‍💻 A lot of my projects are available at here on [GitHub](https://github.com/kennethmanuel?tab=repositories), sorry beforehand, since a lot of these project are not polished
 
 - 📄 Know about some of my [experiences](https://drive.google.com/file/d/13IlDSmnMCAaKoMAvAvXp_ouSZA-sE29J/view?usp=sharing)
-
-- ⚡ Fun fact **I throw exception by day and throw games by night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
