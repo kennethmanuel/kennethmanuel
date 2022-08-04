@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **All things related to Machine Learning**
 
-- 👯 I’m looking to collaborate on **Bangkit 2022 Capstone Project**
+- 👯 I’m currently looking for internships or part time jobs that help advance my skills as data scientist and a machine learning engineer
 
 - 👨‍💻 A lot of my projects are available at here on [GitHub](https://github.com/kennethmanuel?tab=repositories), sorry beforehand, since a lot of these project are not polished
 
