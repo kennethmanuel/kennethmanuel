@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **University of Surabaya**
 
-- 🌱 I’m currently learning **All things related to MaVchine Learning**
+- 🌱 I’m currently learning **All things related to Machine Learning**
 
 - 👨‍💻 A lot of my projects are available at here on [GitHub](https://github.com/kennethmanuel?tab=repositories), sorry beforehand, since a lot of these project are not polished
 
