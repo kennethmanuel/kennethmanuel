@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **All things related to Machine Learning**
 
-- 👨‍💻 A lot of my projects are available at here on [GitHub](https://github.com/kennethmanuel?tab=repositories), sorry beforehand, since a lot of these project are not polished
+- 👨‍💻 A lot of my projects are available at here on [GitHub](https://github.com/kennethmanuel?tab=repositories), a lot of these project are not polished :DD
 
 - 📄 Know about some of my [experiences](https://drive.google.com/file/d/13IlDSmnMCAaKoMAvAvXp_ouSZA-sE29J/view?usp=sharing)
 
